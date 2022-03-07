@@ -26,7 +26,8 @@ Column :( 1 )( 1 )( 2 )
 PicrossSolver.h
 PicrossSolver.cpp
 
-Requires exRuleFile. Parses through exRuleFile and outputs the answer for the rule in the terminal
+Requires exRuleFile. Parses through exRuleFile and outputs the answer for the rule in the terminal.
+
 Inefficient, brute force solves up to 6 by 6. Anything more requires too much time.
 
 Process: Uses cartesian product. Depth-First Search and Backtracking.
