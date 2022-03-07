@@ -19,6 +19,7 @@ Process: Randomly fills a grid of M by N size with 1s or 0s. Afterwards, calcula
 Example Rule File:
 
 Row :( 1 )( 1 )( 2 )
+
 Column :( 1 )( 1 )( 2 )
 
 ## Picross Solver
