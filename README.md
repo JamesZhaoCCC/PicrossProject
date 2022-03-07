@@ -7,7 +7,7 @@ g++ PicrossGen.cpp or g++ PicrossSolver.cpp
 
 ./PicrossGen or ./PicrossSolver
 
-##Picross Generator
+## Picross Generator
 PicrossGen.h
 PicrossGen.cpp
 
@@ -18,7 +18,7 @@ Example Rule File:
 Row :( 1 )( 1 )( 2 )
 Column :( 1 )( 1 )( 2 )
 
-##Picross Solver
+## Picross Solver
 PicrossSolver.h
 PicrossSolver.cpp
 
